@@ -25,10 +25,9 @@ This project creates the basic setup for the Javascript project structure that a
 
 - install needed webpack packages
 
-      ```sh 
-      npm install
-      ```
-
+```sh
+npm install
+```
 
 ## Author
 
