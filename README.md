@@ -25,7 +25,7 @@ This project creates the basic setup for the Javascript project structure that a
 git clone https://github.com/Maha-Magdy/Basic-Setup-For-Using-Webpack-To-Bundle-JavaScript.git
 ```
 
-- install needed webpack packages
+- Install needed webpack packages
 
 ```
 npm install
