@@ -27,7 +27,7 @@ git clone https://github.com/Maha-Magdy/Basic-Setup-For-Using-Webpack-To-Bundle-
 
 - install needed webpack packages
 
-```sh
+```
 npm install
 ```
 
