@@ -21,7 +21,9 @@ This project creates the basic setup for the Javascript project structure that a
 
 - To clone this repo run this code on a terminal window: 
 
-      ```git clone https://github.com/Maha-Magdy/Basic-Setup-For-Using-Webpack-To-Bundle-JavaScript.git```
+```
+git clone https://github.com/Maha-Magdy/Basic-Setup-For-Using-Webpack-To-Bundle-JavaScript.git
+```
 
 - install needed webpack packages
 
